@@ -3,7 +3,7 @@
 
 This is a simple digital clock that displays the current time in hours, minutes, seconds, and AM/PM.
 # Hosted Link:
-
+https://priyam117.github.io/Home-Assignment/Day-14/index.html
 
 ## How to use
 
